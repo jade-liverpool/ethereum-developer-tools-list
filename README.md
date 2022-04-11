@@ -481,3 +481,19 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
 * [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
 * [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
+
+
+
+
+
+
+
+
+
+
+
+
+
+关键部分：Solidity - 最流行的智能合约语言。Metamask - 与 Dapps 交互的浏览器扩展钱包。Truffle - 最流行的智能合约开发、测试和部署框架。Truffle box - 以太坊生态系统的打包组件。Hardhat - 灵活、可扩展和快速的以太坊开发环境。Cryptotux - 准备在 VirtualBox 中导入的 Linux 映像，包括上面提到的开发工具OpenZeppelin Starter Kits - 一个多合一的入门盒，供开发人员快速启动他们的智能合约
+
+ 
